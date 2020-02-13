@@ -1,0 +1,26 @@
+<annotation>
+	<folder>turtleIslandAll</folder>
+	<filename>398.jpg</filename>
+	<path>/home/yungaisun/dlib/yilan/turtleIslandAll/398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turtleIslandTop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>53</ymin>
+			<xmax>445</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
