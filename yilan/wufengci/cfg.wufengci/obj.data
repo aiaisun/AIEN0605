@@ -1,0 +1,5 @@
+classes= 2
+train  = cfg.turtleIsland/train.txt
+valid  = cfg.turtleIsland/test.txt
+names = cfg.turtleIsland/obj.names
+backup = cfg.turtleIsland/weights

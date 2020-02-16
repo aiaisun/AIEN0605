@@ -1,0 +1,26 @@
+<annotation>
+	<folder>五峰旗</folder>
+	<filename>189.jpg</filename>
+	<path>/home/yungaisun/dlib/reportPic/yilan/五峰旗/189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wufengciWaterfall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>63</ymin>
+			<xmax>261</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>五峰旗</folder>
+	<filename>005.jpg</filename>
+	<path>/home/yungaisun/dlib/reportPic/yilan/五峰旗/005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wufengciMap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>87</ymin>
+			<xmax>195</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
