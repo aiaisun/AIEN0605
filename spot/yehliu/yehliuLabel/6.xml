@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>yehliu</folder>
+	<filename>6.jpg</filename>
+	<path>/home/yungaisun/yehliu/6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>147</width>
+		<height>78</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yehliu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>4</ymin>
+			<xmax>105</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>
