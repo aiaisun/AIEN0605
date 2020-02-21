@@ -7,7 +7,9 @@ import argparse
 import dlib
 import cv2
 import re
- 
+import time
+start = time.time()
+
 #讀入相關的參數
 ap = argparse.ArgumentParser()
 ap.add_argument("-c", "--class", required=True, help="Path to the CALTECH-101 class images")
@@ -42,6 +44,8 @@ regex = re.compile(r'/.+')
 output = regex.findall(args["class"])[0].replace("/","")
 detector.save("output/" + output)
 
+end = time.time()
+print("run time:{}".format(end-start))
 # 圖形化顯示Histogram of Oriented Gradients（簡稱HOG）
 win = dlib.image_window()
 win.set_image(detector)
